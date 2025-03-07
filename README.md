@@ -1,4 +1,4 @@
-# Repositório para Portfólio de Projetos de Análise de Dados
+# Portfólio de Projetos em Análise de Dados 🚀📊
 
 Bem-vindo ao meu repositório de Análise de Dados!
 
